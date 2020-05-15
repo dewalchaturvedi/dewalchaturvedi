@@ -32,7 +32,7 @@
 	padding:20px;
 }
 #skills{
-	font-size: 40px;
+	font-size: 60px;
 	letter-spacing: 5px;
 	position: absolute;
 	top:20%;
@@ -45,7 +45,7 @@
 	border:0px;
 }
 #certifications{
-	font-size: 40px;
+	font-size: 60px;
 	letter-spacing: 5px;
 	position: absolute;
 	top:80%;
@@ -58,7 +58,7 @@
 	border:0px;
 }
 #projects{
-	font-size: 40px;
+	font-size: 60px;
 	letter-spacing: 5px;
 	position: absolute;
 	top:50%;
@@ -71,7 +71,7 @@
 	border:0px;
 }
 #contact{
-	font-size: 40px;
+	font-size: 60px;
 	letter-spacing: 5px;
 	position: absolute;
 	top:50%;
