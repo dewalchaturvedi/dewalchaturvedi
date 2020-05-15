@@ -20,6 +20,6 @@ app.get("/projects",function(req,res){
 	res.render("projects.ejs");
 });
 
-app.listen(port,function(){
+app.listen(process.env.PORT,function(){
 	console.log("Server started on port 3000");
 });
