@@ -32,7 +32,7 @@
 	padding:20px;
 }
 #skills{
-	font-size: 60px;
+	font-size: 40px;
 	letter-spacing: 5px;
 	position: absolute;
 	top:20%;
@@ -45,7 +45,7 @@
 	border:0px;
 }
 #certifications{
-	font-size: 60px;
+	font-size: 40px;
 	letter-spacing: 5px;
 	position: absolute;
 	top:80%;
@@ -58,7 +58,7 @@
 	border:0px;
 }
 #projects{
-	font-size: 60px;
+	font-size: 40px;
 	letter-spacing: 5px;
 	position: absolute;
 	top:50%;
@@ -71,7 +71,7 @@
 	border:0px;
 }
 #contact{
-	font-size: 60px;
+	font-size: 40px;
 	letter-spacing: 5px;
 	position: absolute;
 	top:50%;
@@ -216,7 +216,7 @@
 }
 
 #skills{
-    font-size: 50px;
+    font-size: 70px;
     letter-spacing: 5px;
     position: absolute;
     top:20%;
@@ -230,7 +230,7 @@
 }
 
 #certifications{
-    font-size: 50px;
+    font-size: 70px;
     letter-spacing: 5px;
     position: absolute;
     top:40%;
@@ -244,7 +244,7 @@
 }
 
 #projects{
-    font-size: 50px;
+    font-size: 70px;
     letter-spacing: 5px;
     position: absolute;
     top:60%;
@@ -258,7 +258,7 @@
 }
 
 #contact{
-    font-size: 50px;
+    font-size: 70px;
     letter-spacing: 5px;
     position: absolute;
     top:80%;
