@@ -1,0 +1,36 @@
+body{
+	background-image: url(space.jpg);
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	color: white;
+	background : black;
+	opacity: 0.7;
+	margin-top: 100px;
+	font-size: 100px;
+}
+h2{
+	text-align: center;
+	color: white;
+	background : black;
+	background-size: cover;
+	padding: 20px;
+}
+
+img{
+	height: 200px;
+	width: 300px;
+	margin-left: 40%;
+}
+p{
+	color: white;
+	font-size: 30px;
+	background-color: black;
+	opacity: 0.7;	
+}
+.dd{
+	font-size: 30px;
+	margin-left: 1300px;
+	color: white;
+	}

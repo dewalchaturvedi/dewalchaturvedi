@@ -1,0 +1,28 @@
+body{
+	background-image: url(thank.jpg);
+}
+h1{
+	color: white;
+	background-color: black;
+	opacity: 0.7;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 20px;
+}
+div{
+	text-align: center;
+	color: white;
+	margin-top: 60px;
+	font-size: 30px;
+}
+.fab{
+	margin-top: 0px;
+	color: white;
+	font-size: 60px;
+}
+.dd	{
+	margin-left: 70%;
+	font-size: 30px;
+	color: white;
+}
